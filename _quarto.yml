@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "mu-05.github.io"
+  title: "Murad M."
   navbar:
     left:
       - href: index.qmd
