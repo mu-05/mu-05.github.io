@@ -7,9 +7,13 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/mu-05
-    - icon: envelope-at
-      text: Email
-      href: mailto:mu-05@fake.io
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com  # To update !
 ---
 
-Hi! I'm a Data Analyst with a strong foundation in statistical analysis, data visualization, and problem solving. I help businesses make data-driven decisions by transforming raw data into actionable insights.
+Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization.
+On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.
+
+👉 Explore my [Projects](posts.qmd) or learn more [About Me](about.qmd).
+

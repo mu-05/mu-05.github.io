@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Murad M.",
     "section": "",
-    "text": "Hi! I’m a Data Analyst with a strong foundation in statistical analysis, data visualization, and problem solving. I help businesses make data-driven decisions by transforming raw data into actionable insights."
+    "text": "Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization. On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.\n👉 Explore my Projects or learn more About Me."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAug 4, 2025\n\n\nExploring mtcars Dataset\n\n\nMurad M.\n\n\n\n\n\nNo matching items"
   }
 ]
