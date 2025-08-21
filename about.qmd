@@ -1,9 +1,25 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+Hi, I’m Murad, a <mark> certified data analyst</mark> with a background in statistics and over two years of experience working with financial data.
 
-```{r}
-1 + 1
-```
+I specialize in using <mark>SQL, R, and Power BI</mark> to transform messy datasets into clear insights that businesses can act on.
+
+# Skills & Tools
+
+-   **Programming & Data**: R, SQL, Excel, Access, VBA
+-   **Analysis**: Descriptive & inferential statistics, data cleaning
+-   **Visualization & Reporting**: Power BI, R Shiny, dashboards, presentations
+-   **Certification:** [DataCamp Certified Data Analyst ↗](https://www.datacamp.com/certificate/DA0021936874729){target="_blank" rel="noopener noreferrer" title="Opens in a new tab"}
+
+# Beyond Data
+
+Outside of work, I enjoy playing video games (*Persona 5 Royal*, *God of War*). I'm also a big fan of movies like *Inception* and *Jackie Brown*, which inspire me with their memorable characters and immerse worlds.
+
+# Let’s Connect
+
+Curious about my projects? Take a look at my [Portfolio](posts.qmd) ✨ to see projects that highlight both my technical expertise and communication skills.
+
+If you’d like to get in touch, connect with me on [LinkedIn](https://www.linkedin.com) or send me a message via the [Contact Form](). I’m open to new opportunities and short-term projects and always happy to talk about how I can help your team make better, data-driven decisions.
