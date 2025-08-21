@@ -12,8 +12,6 @@ about:
       href: https://www.linkedin.com  # To update !
 ---
 
-Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization.
-On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.
+Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization. On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.
 
 👉 Explore my [Projects](posts.qmd) or learn more [About Me](about.qmd).
-
