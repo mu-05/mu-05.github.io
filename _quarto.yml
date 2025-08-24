@@ -17,6 +17,9 @@ format:
     theme:
       - cosmo
       - brand
+    include-in-header: 
+      - bootstrap-icons.html
+      - fontawesome.html
     css: styles.css
     toc: true
 
