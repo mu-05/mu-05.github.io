@@ -10,18 +10,16 @@ website:
         text: Home
       - posts.qmd
       - about.qmd
-      - contact.qmd
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     include-in-header: 
       - bootstrap-icons.html
       - fontawesome.html
     css: styles.css
     toc: true
-
-editor: visual
 

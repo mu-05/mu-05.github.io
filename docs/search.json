@@ -18,13 +18,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Murad, a  certified data analyst with a background in statistics and over two years of experience working with financial data.\nI specialize in using SQL, R, and Power BI to transform messy datasets into clear insights that businesses can act on.\n\nSkills & Tools\n\nProgramming & Data: R, SQL, Excel, Access, VBA\nAnalysis: Descriptive & inferential statistics, data cleaning\nVisualization & Reporting: Power BI, R Shiny, dashboards, presentations\nCertification: DataCamp Certified Data Analyst \n\n\n\nBeyond Data\nOutside of work, I enjoy playing video games (Persona 5 Royal, God of War). I’m also a big fan of movies like Inception and Jackie Brown, which inspire me with their memorable characters and immerse worlds.\n\n\nLet’s Connect\nCurious about my projects? Take a look at my Portfolio ✨ to see projects that highlight both my technical expertise and communication skills.\nIf you’d like to get in touch, connect with me on LinkedIn or send me a message via the Contact Form. I’m open to new opportunities and short-term projects and always happy to talk about how I can help your team make better, data-driven decisions."
+    "text": "Hi, I’m Murad, a certified data analyst with a background in statistics and over two years of experience working with financial data.\nI specialize in using SQL, R, and Power BI to transform messy datasets into clear insights that businesses can act on.\n\nSkills & Tools\n\nProgramming & Data: R, SQL, Excel, Access, VBA\nAnalysis: Descriptive & inferential statistics, data cleaning\nVisualization & Reporting: Power BI, R Shiny, dashboards, presentations\nCertification: DataCamp Certified Data Analyst \n\n\n\nBeyond Data\nOutside of work, I enjoy playing video games (Persona 5 Royal, God of War). I’m also a big fan of movies like Inception and Jackie Brown, which inspire me with their memorable characters and immerse worlds.\n\n\nLet’s Connect\nCurious about my projects? Take a look at my Portfolio ⭐️ to see projects that highlight both my technical expertise and communication skills.\nIf you’d like to get in touch, connect with me on LinkedIn  or send me a message via the Contact Form 💬. I’m open to new opportunities and short-term projects and happy to help your team make better, data-driven decisions."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Contact Me",
     "section": "",
-    "text": "Name: \n\n\nEmail: \n\n\nMessage:\n\n\n\nSend"
+    "text": "Have a question, comment, or opportunity? Use the form below to contact me. All fields are required so I can get back to you with the right information. I reply quickly and am happy to communicate in either English or French.\n👉 You’re also welcome to connect with me on LinkedIn  !\n\nSend a Message\n\n\nName: \n\n\nEmail: \n\n\nMessage:\n\n\n\n\n&lt;input type=\"text\" name=\"_gotcha\" id=\"gotcha\" autocomplete=\"off\"&gt;\n\n\nSend"
   }
 ]

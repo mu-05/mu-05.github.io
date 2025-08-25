@@ -1,7 +1,15 @@
 ---
-title: "Contact"
+title: "Contact Me"
 format: html
+toc: false
 ---
+
+<mark>Have a question, comment, or opportunity?</mark> Use the form below to contact me. All fields are required so I can get back to you with the right information. I **reply quickly** and am happy to communicate in either **English or French**.
+
+👉 You’re also welcome to connect with me on [LinkedIn <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>](https://www.linkedin.com){target="_blank" rel="noopener noreferrer" title="Opens in a new tab"} !
+
+# Send a Message
+
 <form
   action="https://formspree.io/f/xzzaparp"
   method="POST"
@@ -21,6 +29,11 @@ format: html
 <label for="message" class="form-label">Message:</label><br>
 <textarea  class="form-control" id="message" name="message" rows="5" required></textarea>
 </div>
+
+  <!-- Honeypot field (hidden) -->
+  <div style="display:none;">
+    <input type="text" name="_gotcha" id="gotcha" autocomplete="off">
+  </div>
 
 <button type="submit" class="btn btn-primary">Send</button>
 
