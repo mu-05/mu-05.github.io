@@ -1,8 +1,17 @@
 ---
 title: "Posts"
+subtitle: "Welcome to my Posts page!"
 listing: 
   contents: posts
   type: table
   sort: "date desc"
   categories: true
 ---
+
+Here you'll find data projects exploring <mark>real-world questions</mark> using tools like: **R**, **SQL**, **Power BI**, and **Excel**.
+
+Topics include: **data analysis**, **business insights** and **statistics**.
+
+Feel free to *browse and explore*!
+
+💬 Questions or feedback? [Send me a message](contact.qmd).
