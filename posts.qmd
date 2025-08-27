@@ -8,9 +8,9 @@ listing:
   categories: true
 ---
 
-Here you'll find data projects exploring <mark>real-world questions</mark> using tools like: **R**, **SQL**, **Power BI**, and Excel.
+Here you'll find data projects exploring <mark>real-world questions</mark> using tools like: **R**, **SQL**, **Power BI**, and **Excel**.
 
-Topics include: **data exploration**, **business insights** and **data transformation**.
+Topics include: **data analysis**, **business insights** and **statistics**.
 
 Feel free to *browse and explore*!
 
