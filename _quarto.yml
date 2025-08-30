@@ -12,6 +12,7 @@ website:
       - about.qmd
       - href: contact.qmd
         text: Contact
+  draft-mode: visible
 
 format:
   html:

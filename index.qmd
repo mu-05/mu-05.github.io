@@ -9,7 +9,7 @@ about:
       href: contact.qmd
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com  # To update !
+      href: https://www.linkedin.com/in/murad-mgoev
     - icon: github
       text: GitHub
       href: https://github.com/mu-05
