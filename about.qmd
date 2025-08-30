@@ -22,4 +22,4 @@ Outside of work, I enjoy playing video games (*Persona 5 Royal*, *God of War*). 
 
 Curious about my projects? Take a look at my [Portfolio ⭐️](posts.qmd) to see projects that highlight both my technical expertise and communication skills.
 
-If you’d like to get in touch, connect with me on [LinkedIn <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>](https://www.linkedin.com){target="_blank" rel="noopener noreferrer" title="Opens in a new tab"} or send me a message via the [Contact Form 💬](contact.qmd). I’m open to new opportunities and short-term projects and happy to help your team make better, data-driven decisions.
+If you’d like to get in touch, connect with me on [LinkedIn <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>](https://www.linkedin.com/in/murad-mgoev){target="_blank" rel="noopener noreferrer" title="Opens in a new tab"} or send me a message via the [Contact Form 💬](contact.qmd). I’m open to new opportunities and short-term projects and happy to help your team make better, data-driven decisions.

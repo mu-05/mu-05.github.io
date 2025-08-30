@@ -8,6 +8,10 @@ listing:
   categories: true
 ---
 
+::: {.callout-note appearance="simple"}
+This page is currently a work in progress.
+:::
+
 Here you'll find data projects exploring <mark>real-world questions</mark> using tools like: **R**, **SQL**, **Power BI**, and **Excel**.
 
 Topics include: **data analysis**, **business insights** and **statistics**.

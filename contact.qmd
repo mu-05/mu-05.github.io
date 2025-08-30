@@ -6,7 +6,7 @@ toc: false
 
 <mark>Have a question, comment, or opportunity?</mark> Use the form below to contact me. All fields are required so I can get back to you with the right information. I **reply quickly** and am happy to communicate in either **English or French**.
 
-👉 You’re also welcome to connect with me on [LinkedIn <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>](https://www.linkedin.com){target="_blank" rel="noopener noreferrer" title="Opens in a new tab"} !
+👉 You’re also welcome to connect with me on [LinkedIn <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>](https://www.linkedin.com/in/murad-mgoev){target="_blank" rel="noopener noreferrer" title="Opens in a new tab"} !
 
 # Send a Message
 
