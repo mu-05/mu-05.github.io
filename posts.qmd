@@ -4,6 +4,7 @@ subtitle: "Welcome to my Posts page!"
 listing: 
   contents: posts
   type: table
+  fields: [date, title, categories]
   sort: "date desc"
   categories: true
 ---
