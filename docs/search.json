@@ -4,28 +4,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "This page is currently a work in progress.\n\n\n\nHere you’ll find data projects exploring real-world questions using tools like: R, SQL, Power BI, and Excel.\nTopics include: data analysis, business insights and statistics.\nFeel free to browse and explore!\n💬 Questions or feedback? Send me a message.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nSep 16, 2025\n\n\nExplore Motorcycle Parts Sales\n\n\nSQL, Data Analysis\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Murad M.",
-    "section": "",
-    "text": "Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization. On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.\n👉 Explore my Projects or learn more About Me."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi, I’m Murad, a certified data analyst with a background in statistics and over two years of experience working with financial data.\nI specialize in using SQL, R, and Power BI to transform messy datasets into clear insights that businesses can act on.\n\nSkills & Tools\n\nProgramming & Data: R, SQL, Excel, Access, VBA\nAnalysis: Descriptive & inferential statistics, data cleaning\nVisualization & Reporting: Power BI, R Shiny, dashboards, presentations\nCertification: DataCamp Certified Data Analyst \n\n\n\nBeyond Data\nOutside of work, I enjoy playing video games (Persona 5 Royal, God of War). I’m also a big fan of movies like Inception and Jackie Brown, which inspire me with their memorable characters and immerse worlds.\n\n\nLet’s Connect\nCurious about my projects? Take a look at my Portfolio ⭐️ to see projects that highlight both my technical expertise and communication skills.\nIf you’d like to get in touch, connect with me on LinkedIn  or send me a message via the Contact Form 💬. I’m open to new opportunities and short-term projects and happy to help your team make better, data-driven decisions."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Have a question, comment, or opportunity? Use the form below to contact me. All fields are required so I can get back to you with the right information. I reply quickly and am happy to communicate in either English or French.\n👉 You’re also welcome to connect with me on LinkedIn  !\n\nSend a Message\n\n\nName: \n\n\nEmail: \n\n\nMessage:\n\n\n\n\n&lt;input type=\"text\" name=\"_gotcha\" id=\"gotcha\" autocomplete=\"off\"&gt;\n\n\nSend"
+    "text": "This page is currently a work in progress.\n\n\n\nHere you’ll find data projects exploring real-world questions using tools like: R, SQL, Power BI, and Excel.\nTopics include: data analysis, business insights and statistics.\nFeel free to browse and explore!\n💬 Questions or feedback? Send me a message.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nOct 8, 2025\n\n\nDashboard on Baccalaureate Exam Results\n\n\nPower BI, Dashboard\n\n\n\n\n\n\nSep 16, 2025\n\n\nExplore Motorcycle Parts Sales\n\n\nSQL, Data Analysis\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-09-15-motorcycle-parts-sales/index.html#business-problem",
@@ -68,5 +47,68 @@
     "title": "Explore Motorcycle Parts Sales",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThe dataset comes from a DataCamp project: Analyzing Motorcycle Part Sales. https://app.datacamp.com/learn/projects/1574↩︎"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Have a question, comment, or opportunity? Use the form below to contact me. All fields are required so I can get back to you with the right information. I reply quickly and am happy to communicate in either English or French.\n👉 You’re also welcome to connect with me on LinkedIn  !\n\nSend a Message\n\n\nName: \n\n\nEmail: \n\n\nMessage:\n\n\n\n\n&lt;input type=\"text\" name=\"_gotcha\" id=\"gotcha\" autocomplete=\"off\"&gt;\n\n\nSend"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Murad, a certified data analyst with a background in statistics and over two years of experience working with financial data.\nI specialize in using SQL, R, and Power BI to transform messy datasets into clear insights that businesses can act on.\n\nSkills & Tools\n\nProgramming & Data: R, SQL, Excel, Access, VBA\nAnalysis: Descriptive & inferential statistics, data cleaning\nVisualization & Reporting: Power BI, R Shiny, dashboards, presentations\nCertification: DataCamp Certified Data Analyst \n\n\n\nBeyond Data\nOutside of work, I enjoy playing video games (Persona 5 Royal, God of War). I’m also a big fan of movies like Inception and Jackie Brown, which inspire me with their memorable characters and immerse worlds.\n\n\nLet’s Connect\nCurious about my projects? Take a look at my Portfolio ⭐️ to see projects that highlight both my technical expertise and communication skills.\nIf you’d like to get in touch, connect with me on LinkedIn  or send me a message via the Contact Form 💬. I’m open to new opportunities and short-term projects and happy to help your team make better, data-driven decisions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Murad M.",
+    "section": "",
+    "text": "Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization. On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.\n👉 Explore my Projects or learn more About Me."
+  },
+  {
+    "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#business-problem",
+    "href": "posts/2025-10-08-baccalaureate-success-rate/index.html#business-problem",
+    "title": "Dashboard on Baccalaureate Exam Results",
+    "section": "1 Business Problem",
+    "text": "1 Business Problem\nThe French Ministry of Education is planning to release new funding aimed at improving baccalaureate exam pass rates. However, before allocating these resources, the Ministry is seeking to better understand disparities in pass rates across regions, as well as potential variations by gender and education track.\nTo support this effort, the Ministry has commissioned our data analytics company to develop a user-friendly Power BI dashboard that visualizes the results of the 2023 and 2024 baccalaureate sessions. This tool is intended to help the non-technical funding team easily explore and understand patterns in success rate across France."
+  },
+  {
+    "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#data-preparation",
+    "href": "posts/2025-10-08-baccalaureate-success-rate/index.html#data-preparation",
+    "title": "Dashboard on Baccalaureate Exam Results",
+    "section": "2 Data Preparation",
+    "text": "2 Data Preparation\nThe dataset was sourced from the French Ministry of Education’s open data portal1. The quality of the data was excellent. There were no missing values, formatting issues or duplicates. However, to reduce redundancy in the original flat file, the data was restructured into two separate datasets:\n\nGeographical dataset: includes information of French departments.\nSuccess rate dataset: contains annual baccalaureate pass rates.\n\nThis separation improves the maintainability and scalability of the project. It makes it easier to update the dashboard with new data and to fix or improve it when needed.\n\n\n\n\n\n\n\n\nFigure 1: Simplified data model showing the relationship between departments and pass rates datasets\n\n\n\n\n\nPower Query was used to import and clean the data. This involved selecting appropriate data types and formats for each field, as well as creating new variables, such as a hierarchical structure2 linking departments to regions.\nThe data model3 is based on a simple one-to-many relationship: each record in the departments table corresponds to one or more records in the pass_rates table. This structure supports the multiple years of data (2023 and 2024) included in the dataset."
+  },
+  {
+    "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#dashboard-elements",
+    "href": "posts/2025-10-08-baccalaureate-success-rate/index.html#dashboard-elements",
+    "title": "Dashboard on Baccalaureate Exam Results",
+    "section": "3 Dashboard Elements",
+    "text": "3 Dashboard Elements\nThe dashboard has been designed with clarity in mind to ensure that anyone can easily explore and understand the data. It contains five interactive visuals, each focused on highlighting key insights about baccalaureate exam pass rates in France.\nHere’s a quick overview of each element:\n\nSession Year Filter (Slicer)  Allows users to toggle between the 2023 and 2024 exam sessions to analyze year-over-year changes. This allows decision-makers to track trends and identify regions or groups that may have improved or declined.\nOverall Pass Rate (Card Visual)  Displays the average national pass rate across all students and regions, serving as a national performance indicator.\nPass Rates by Gender (Multi-row Card)  Breaks down average pass rates for male and female students, offering a quick way to compare gender-based performance and spot any disparities.\nGeographical Distribution (Filled Map)  Illustrates regional and departmental pass rates using a red-to-green color gradient. This helps identify areas that may require more support or intervention.\nPass Rates by Track and Gender (Clustered Column Chart)  Breaks down the average pass rate by education track (general, technological, vocational) and gender. This helps highlight how different educational paths perform and whether gender plays a role within each track.\n\n\n\n\n\n\n\n\n\nFigure 2: Screenshot of the baccalaureate exam results dashboard\n\n\n\n\n\nAll visuals in the dashboard are interactive and connected. Selecting a region, for example, updates the other visuals to show relevant details by gender and education track. This interactivity helps answer questions like which regions improved over time or how different student groups performed."
+  },
+  {
+    "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#key-findings",
+    "href": "posts/2025-10-08-baccalaureate-success-rate/index.html#key-findings",
+    "title": "Dashboard on Baccalaureate Exam Results",
+    "section": "4 Key findings",
+    "text": "4 Key findings\nThe goal of this report is to provide clear, actionable insights to support funding decisions aimed at reducing disparities in baccalaureate pass rates. By analyzing the dashboard visuals, three key data-driven findings emerge:\n\nRegional disparities: Île-de-France underperforms  In 2024, the Île-de-France region recorded the lowest average pass rate at 87.1% (Map Visual), while the national average was 90.8% (Card Visual) – a trend also observed in 2023. A closer look reveals two departments in this region that may require additional support:\n\nVal-d’Oise: 83.8% pass rate\nSeine-Saint-Denis: 85.2% pass rate\n\nGender gaps are more pronounced in specific departments  In both Val-d’Oise and Seine-Saint-Denis, female students outperform male students by an average of 7% (Multi-row Card). This is more than twice the national gender gap, approximately 3%, suggesting that gender-based performance differences are more severe in these departments.\nUnderperformance concentrated in vocational and technological tracks  Vocational and technological tracks are the main contributors to the overall underperformance in Val-d’Oise and Seine-Saint-Denis (Clustered Column Chart). In particular, male students enrolled in these tracks have pass rates below 85%, highlighting a critical area for targeted intervention.\n\nWatch the short demonstration video below to learn how to use the dashboard to discover these insights.\n\n\n\n\n\n\nFigure 3: Video on how to navigate the dashboard and extract insights"
+  },
+  {
+    "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#recommendations",
+    "href": "posts/2025-10-08-baccalaureate-success-rate/index.html#recommendations",
+    "title": "Dashboard on Baccalaureate Exam Results",
+    "section": "5 Recommendations",
+    "text": "5 Recommendations\nThe findings above point to a specific group that would benefit most from targeted support:\n\nStudents in Val-d’Oise and Seine-Saint-Denis enrolled in vocational and technological education tracks.\n\nFocusing funding and intervention efforts on this group could have a significant impact. In particular, it would help reduce disparities in pass rates across regions, gender and education tracks. For example, the French Ministry of Education could:\n\nIncrease the number of teachers to reduce class sizes and improve student attention during lessons.\nProvide tutoring sessions to help support students in vocational and technological tracks.\n\nThese steps would help create more equitable learning conditions and improve overall performance on the Baccalaureate exam."
+  },
+  {
+    "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#footnotes",
+    "href": "posts/2025-10-08-baccalaureate-success-rate/index.html#footnotes",
+    "title": "Dashboard on Baccalaureate Exam Results",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe dataset used in this project was downloaded on 2025-09-22, and titled Réussite au baccalauréat par département.↩︎\nA hierarchical structure is a way of organizing data where items are ranked or grouped in levels. For example, departments belonging to specific regions.↩︎\nThe term data model refers to the way data is organized in Power BI.↩︎"
   }
 ]
