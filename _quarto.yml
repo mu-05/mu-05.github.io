@@ -21,6 +21,7 @@ format:
     include-in-header: 
       - bootstrap-icons.html
       - fontawesome.html
+      - head-goatcounter.html
     css: styles.css
     toc: true
 
