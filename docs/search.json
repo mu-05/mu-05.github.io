@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
     "section": "",
-    "text": "This page is currently a work in progress.\n\n\n\nHere you’ll find data projects exploring real-world questions using tools like: R, SQL, Power BI, and Excel.\nTopics include: data analysis, business insights and statistics.\nFeel free to browse and explore!\n💬 Questions or feedback? Send me a message.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nOct 8, 2025\n\n\nDashboard on Baccalaureate Exam Results\n\n\nPower BI, Dashboard\n\n\n\n\n\n\nSep 16, 2025\n\n\nExplore Motorcycle Parts Sales\n\n\nSQL, Data Analysis\n\n\n\n\n\n\nNo matching items"
+    "text": "Have a question, comment, or opportunity? Use the form below to contact me. All fields are required so I can get back to you with the right information. I reply quickly and am happy to communicate in either English or French.\n👉 You’re also welcome to connect with me on LinkedIn  !\n\nSend a Message\n\n\nName: \n\n\nEmail: \n\n\nMessage:\n\n\n\n\n&lt;input type=\"text\" name=\"_gotcha\" id=\"gotcha\" autocomplete=\"off\"&gt;\n\n\nSend"
   },
   {
     "objectID": "posts/2025-09-15-motorcycle-parts-sales/index.html#business-problem",
@@ -49,11 +49,11 @@
     "text": "Footnotes\n\n\nThe dataset comes from a DataCamp project: Analyzing Motorcycle Part Sales.↩︎"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "Have a question, comment, or opportunity? Use the form below to contact me. All fields are required so I can get back to you with the right information. I reply quickly and am happy to communicate in either English or French.\n👉 You’re also welcome to connect with me on LinkedIn  !\n\nSend a Message\n\n\nName: \n\n\nEmail: \n\n\nMessage:\n\n\n\n\n&lt;input type=\"text\" name=\"_gotcha\" id=\"gotcha\" autocomplete=\"off\"&gt;\n\n\nSend"
+    "text": "Here you’ll find data projects exploring real-world questions using tools like: R, SQL, Power BI, and Excel.\nTopics include: data analysis, business insights and statistics.\nFeel free to browse and explore!\n💬 Questions or feedback? Send me a message.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nOct 8, 2025\n\n\nDashboard on Baccalaureate Exam Results\n\n\nPower BI, Dashboard\n\n\n\n\n\n\nSep 16, 2025\n\n\nExplore Motorcycle Parts Sales\n\n\nSQL, Data Analysis\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -61,13 +61,6 @@
     "title": "About",
     "section": "",
     "text": "Hi, I’m Murad, a certified data analyst with a background in statistics and over two years of experience working with financial data.\nI specialize in using SQL, R, and Power BI to transform messy datasets into clear insights that businesses can act on.\n\nSkills & Tools\n\nProgramming & Data: R, SQL, Excel, Access, VBA\nAnalysis: Descriptive & inferential statistics, data cleaning\nVisualization & Reporting: Power BI, R Shiny, dashboards, presentations\nCertification: DataCamp Certified Data Analyst \n\n\n\nBeyond Data\nOutside of work, I enjoy playing video games (Persona 5 Royal, God of War). I’m also a big fan of movies like Inception and Jackie Brown, which inspire me with their memorable characters and immerse worlds.\n\n\nLet’s Connect\nCurious about my projects? Take a look at my Portfolio ⭐️ to see projects that highlight both my technical expertise and communication skills.\nIf you’d like to get in touch, connect with me on LinkedIn  or send me a message via the Contact Form 💬. I’m open to new opportunities and short-term projects and happy to help your team make better, data-driven decisions."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Murad M.",
-    "section": "",
-    "text": "Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization. On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.\n👉 Explore my Projects or learn more About Me."
   },
   {
     "objectID": "posts/2025-10-08-baccalaureate-success-rate/index.html#business-problem",
@@ -110,5 +103,12 @@
     "title": "Dashboard on Baccalaureate Exam Results",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThe dataset used in this project was downloaded on 2025-09-22, and titled Réussite au baccalauréat par département.↩︎\nA hierarchical structure is a way of organizing data where items are ranked or grouped in levels. For example, departments belonging to specific regions.↩︎\nThe term data model refers to the way data is organized in Power BI.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Murad M.",
+    "section": "",
+    "text": "Hi! I’m a Data Analyst with a passion for statistical analysis and data visualization. On this site, I share projects that showcase my skills in data cleaning, data exploration, and analytical storytelling.\n👉 Explore my Projects or learn more About Me."
   }
 ]
